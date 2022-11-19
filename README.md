@@ -7,7 +7,7 @@ TODO (in no particular order)
 
 -change the language from polish to english
 
--add pokemon themed layout and button choises from gen 1
+-add pokemon themed layout and button choices from gen 1
 
 -add simple animation when "choosing your pokemon" and after the "battle"
 
